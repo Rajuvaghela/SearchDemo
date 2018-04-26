@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:context="com.example.lujayn_15.searchdemo.MainActivity">
+
+    <TextView
+        android:id="@+id/tv_search_product"
+        android:layout_width="match_parent"
+        android:text="bgfdgdgdfgdfgf"
+        android:padding="10dp"
+        android:textColor="#000000"
+        android:layout_height="wrap_content" />
+</RelativeLayout>
